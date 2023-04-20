@@ -1,0 +1,13 @@
+IVY LEAGUE
+white/black
+blue/green
+END:Yale or Columbia or UPenn
+END:Dartmouth
+orange/red
+END:Princeton
+brown/white
+END:Brown
+END:Harvard or Cornell
+
+
+
